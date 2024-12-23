@@ -717,8 +717,8 @@ html {
   display: inline-block;
   -webkit-animation-name: marqueA;
           animation-name: marqueA;
-  -webkit-animation-duration: 5s;
-          animation-duration: 5s; /* Adjust duration for a smoother experience */
+  -webkit-animation-duration: 10s;
+          animation-duration: 10s; /* Adjust duration for a smoother experience */
   -webkit-animation-timing-function: linear;
           animation-timing-function: linear;
   -webkit-animation-iteration-count: infinite;
@@ -764,8 +764,8 @@ html {
   display: inline-block;
   -webkit-animation-name: marqueB;
           animation-name: marqueB;
-  -webkit-animation-duration: 5s;
-          animation-duration: 5s; /* Adjust duration for a smoother experience */
+  -webkit-animation-duration: 10s;
+          animation-duration: 10s; /* Adjust duration for a smoother experience */
   -webkit-animation-timing-function: linear;
           animation-timing-function: linear;
   -webkit-animation-iteration-count: infinite;
